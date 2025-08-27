@@ -1,0 +1,16 @@
+Lock1:
+  players: 1
+  games:
+    A Link to the Past: 1
+Side:
+  players: 9
+  games:
+    Bumper Stickers: 1
+    ChecksFinder: 1
+    Yacht Dice: 10
+Default:
+  players: 20
+  games:
+    Hollow Knight: 40
+    Factorio: 10
+    Pokemon Emerald: 30
