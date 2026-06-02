@@ -81,7 +81,7 @@
   shopowners_in_pool: random
   boulders_in_pool: random
   dropsanity: random
-  hints_in_item_pool: random
+  hints_in_item_pool: false
   half_medals_in_pool: random
 
   snide_turnins_to_pool: random
