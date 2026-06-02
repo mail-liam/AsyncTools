@@ -119,8 +119,8 @@
     ]
 
   loading_zone_rando:
-    "no": 30
-    "yes": 70
+    "no": 4
+    "yes": 1
 
   galleon_water_level: random
 
