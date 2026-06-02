@@ -278,6 +278,8 @@
   remove_bait_potions: false
   receive_notifications: display_only_progression
 
+  local_items: ["Keys"]
+
   triggers:
     - option_category: null
       option_name: name
