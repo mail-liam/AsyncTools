@@ -243,10 +243,12 @@
       option_name: goal
       option_result: keys
       options:
-        local_items: ["Keys"]
+        Donkey Kong 64:
+          local_items: ["Keys"]
 
     - option_category: Donkey Kong 64
       option_name: goal
       option_result: krools_challenge
       options:
-        local_items: ["Blueprints"]
+        Donkey Kong 64:
+          local_items: ["Blueprints"]
