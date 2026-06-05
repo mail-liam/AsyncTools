@@ -76,7 +76,7 @@
 
   starting_move_count: random-range-0-7
 
-  helm_key_lock: true
+  helm_key_lock: random
   climbing_shuffle: random
   shopowners_in_pool: random
   boulders_in_pool: random
