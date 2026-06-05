@@ -278,8 +278,6 @@
   remove_bait_potions: false
   receive_notifications: display_only_progression
 
-  local_items: ["Keys"]
-
   triggers:
     - option_category: null
       option_name: name
@@ -293,3 +291,10 @@
       option_result: keys
       options:
         pregiven_keys: 0
+        local_items: ["Keys"]
+
+    - option_category: Donkey Kong 64
+      option_name: goal
+      option_result: krools_challenge
+      options:
+        local_items: ["Blueprints"]
