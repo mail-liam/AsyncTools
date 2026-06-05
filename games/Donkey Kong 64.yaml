@@ -23,7 +23,7 @@
     pearls: 3
     rainbow_coins: 10
 
-  pregiven_keys: random-range-0-2
+  pregiven_keys: 0
   helm_phase_count: random
 
   crown_door_item:
@@ -35,16 +35,16 @@
     hard_random: 60
 
   helm_door_item_count:
-    bean: "random"
-    blueprints: "random"
-    company_coins: "random"
-    crowns: "random"
-    fairies: "random"
-    golden_bananas: "random"
-    keys: "random"
-    medals: "random"
-    pearls: "random"
-    rainbow_coins: "random"
+    bean: random
+    blueprints: random
+    company_coins: random
+    crowns: random
+    fairies: random
+    golden_bananas: random
+    keys: random
+    medals: random
+    pearls: random
+    rainbow_coins: random
 
   krool_phase_count: random
   krool_in_boss_pool: random
@@ -90,9 +90,11 @@
     24: 30
     32: 60
 
-  shop_prices: free
+  shop_prices:
+    free: 3
+    low: 1
 
-  smaller_shops: random
+  smaller_shops: false
 
   enable_shared_shops: false
 
@@ -290,7 +292,6 @@
       option_name: goal
       option_result: keys
       options:
-        pregiven_keys: 0
         local_items: ["Keys"]
 
     - option_category: Donkey Kong 64
