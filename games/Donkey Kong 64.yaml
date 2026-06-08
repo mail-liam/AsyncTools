@@ -12,7 +12,7 @@
   goal_quantity:
     blueprints: 20
     bonuses: 15
-    bosses: random-range-3-7
+    bosses: 3-7
     company_coins: 2
     crowns: 5
     fairies: 15
